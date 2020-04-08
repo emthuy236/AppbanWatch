@@ -1,0 +1,2 @@
+rootProject.name='AppbanWatch'
+include ':app'
